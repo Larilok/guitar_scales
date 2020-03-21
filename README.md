@@ -12,3 +12,6 @@ Learn, create and combine guitar scales just with a phone in your hands or on th
 * Set scale root and unfreated strings by sound using microphone
 * Metronome
 * User specific settings
+
+## Supported instruments
+* Any instrument with a strings
